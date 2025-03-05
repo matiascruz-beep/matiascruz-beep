@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola! Soy Matias Cruz 👋
+
+
+![@MatiasCruz](https://github.com/user-attachments/assets/95b2d65e-5525-4fbd-83af-6c72988253a3)
 
 <!--
 **matiascruz-beep/matiascruz-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
