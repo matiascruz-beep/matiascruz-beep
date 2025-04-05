@@ -1,7 +1,7 @@
                                             ## Hola! Soy Matias Cruz 👋
 
-                               🎓 Profesor de Matemática | 💻 Full Stack Developer  
-                                🚀 Apasionado por la educación y la tecnología  
+                                  🎓 Profesor de Matemática | 💻 Full Stack Developer  
+                                   🚀 Apasionado por la educación y la tecnología  
 
 ![@MatiasCruz (1)](https://github.com/user-attachments/assets/757c78e2-b71a-4a32-8cff-ce225a7e561c)
 
